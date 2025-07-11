@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hey there! I'm Jonathan, a passionate full-stack developer with a strong focus on building dynamic, real-world web applications. I’m currently planning an **Inventory Management SaaS** aimed at helping small businesses manage stock across multiple branches.
+Hey there! I'm Jonathan, a passionate aspiring web developer with a strong focus on building dynamic, real-world web applications. I’m currently planning an **Inventory Management SaaS** aimed at helping small businesses manage stock across multiple branches.
 
-My main stack revolves around **Laravel 12**, **React** (via **Inertia.js**), and **Tailwind CSS**, with real-time features powered by **Firebase Firestore**. I’ve built booking systems, calendar-based availability tools, and real-time messaging—all on shared hosting environments, which has taught me how to adapt and optimize for constraints.
+My main stack revolves around **Laravel 12**, **React** (via **Inertia.js**), and **Tailwind CSS**. I’ve built booking systems, calendar-based availability tools, and real-time messaging—all on shared hosting environments, which has taught me how to adapt and optimize for constraints.
 
 I love solving problems, building clean UIs, and iterating on systems until they just work. If you’re into pragmatic development, real user workflows, or just geeking out about web dev on a budget—let’s connect!
 
@@ -14,7 +14,6 @@ I love solving problems, building clean UIs, and iterating on systems until they
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-800080?style=for-the-badge&logo=javascript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
